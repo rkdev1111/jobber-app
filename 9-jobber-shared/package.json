@@ -2,7 +2,7 @@
   "version": "0.0.1",
   "license": "MIT",
   "main": "index.js",
-  "description": "Helpers library for Jobber app",
+  "description": "Helper library for Jobber app",
   "engines": {
     "node": ">=18"
   },
@@ -18,8 +18,8 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "",
-  "author": "",
+  "name": "@rkdev1111/jobber-app",
+  "author": "rkdev",
   "repository": {
     "type": "git",
     "url": ""
